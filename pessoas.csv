@@ -1,0 +1,81 @@
+ID_Pessoa,Nome_Pessoa,Idade,Sexo,Telefone,Email,Membro,Bairro
+1,Natália Ferreira,52,M,11997626442,natália.ferreira@email.com,Sim,Freitas
+2,Bruno Ferreira,51,M,11920322103,bruno.ferreira@email.com,Sim,Buquirinha
+3,Rafael Almeida,35,F,11959419487,rafael.almeida@email.com,Sim,Vila Cândida
+4,Daniela Santos,37,M,11953982732,daniela.santos@email.com,Sim,Buquirinha
+5,Viviane Silva,45,M,11919197156,viviane.silva@email.com,Sim,Vila Paiva
+6,Otávio Almeida,35,M,11937725818,otávio.almeida@email.com,Sim,Vila São Geraldo
+7,Natália Costa,29,F,11906240431,natália.costa@email.com,Sim,Freitas
+8,Gabriel Costa,54,F,11955484497,gabriel.costa@email.com,Não,Vila Cândida
+9,Otávio Pereira,62,M,11904406980,otávio.pereira@email.com,Não,Freitas
+10,Igor Costa,45,F,11973296417,igor.costa@email.com,Sim,Freitas
+11,Daniela Souza,54,F,11904977981,daniela.souza@email.com,Não,Biquirinha 2
+12,Marcos Almeida,52,M,11909642025,marcos.almeida@email.com,Não,Freitas
+13,Rafael Almeida,26,F,11935269928,rafael.almeida@email.com,Sim,Freitas
+14,Otávio Rodrigues,19,M,11961279290,otávio.rodrigues@email.com,Sim,Taquari
+15,Patrícia Oliveira,25,M,11999442765,patrícia.oliveira@email.com,Não,Taquari
+16,Thiago Silva,39,F,11962725047,thiago.silva@email.com,Sim,Vila Cândida
+17,Patrícia Ferreira,26,F,11903676676,patrícia.ferreira@email.com,Sim,Vila Cândida
+18,Carlos Lima,24,M,11988287571,carlos.lima@email.com,Não,Altos da Vila Paiva
+19,Bruno Almeida,35,M,11902966612,bruno.almeida@email.com,Não,Vila Cândida
+20,Patrícia Santos,26,F,11981407839,patrícia.santos@email.com,Não,Vila Cândida
+21,Marcos Silva,38,F,11925057207,marcos.silva@email.com,Sim,Vila Paiva
+22,Carlos Silva,20,F,11947967025,carlos.silva@email.com,Sim,Vila São Geraldo
+23,Marcos Lima,62,F,11924077664,marcos.lima@email.com,Não,Taquari
+24,Gabriel Lima,30,F,11969555424,gabriel.lima@email.com,Não,Boa Vista
+25,Carlos Pereira,49,F,11905262719,carlos.pereira@email.com,Sim,Altos da Vila Paiva
+26,Fernanda Souza,22,F,11994112917,fernanda.souza@email.com,Não,Altos da Vila Paiva
+27,Viviane Oliveira,31,F,11975065603,viviane.oliveira@email.com,Não,Vila Cândida
+28,Ana Almeida,50,M,11941981914,ana.almeida@email.com,Não,Boa Vista
+29,Bruno Pereira,41,M,11912630205,bruno.pereira@email.com,Sim,Taquari
+30,Marcos Ferreira,25,M,11983047479,marcos.ferreira@email.com,Sim,Taquari
+31,Marcos Almeida,27,F,11948288038,marcos.almeida@email.com,Não,Vila Paiva
+32,Juliana Silva,24,F,11962870312,juliana.silva@email.com,Sim,Vila Paiva
+33,Viviane Lima,34,F,11970150127,viviane.lima@email.com,Não,Mirante
+34,Otávio Lima,40,F,11941174832,otávio.lima@email.com,Não,Vila São Geraldo
+35,Juliana Rodrigues,29,F,11939682791,juliana.rodrigues@email.com,Sim,Mirante
+36,Daniela Silva,27,M,11949871137,daniela.silva@email.com,Não,Biquirinha 2
+37,Patrícia Silva,39,F,11914384809,patrícia.silva@email.com,Não,Buquirinha
+38,Bruno Pereira,26,F,11956420976,bruno.pereira@email.com,Sim,Vila Cândida
+39,Igor Pereira,26,F,11912537535,igor.pereira@email.com,Não,Boa Vista
+40,Juliana Costa,54,M,11922501336,juliana.costa@email.com,Sim,Biquirinha 2
+41,Larissa Oliveira,20,F,11987137327,larissa.oliveira@email.com,Não,Boa Vista
+42,Kleber Santos,55,M,11901402163,kleber.santos@email.com,Sim,Vila Paiva
+43,Thiago Lima,54,F,11965347335,thiago.lima@email.com,Não,Altos da Vila Paiva
+44,Gabriel Lima,49,F,11982518170,gabriel.lima@email.com,Sim,Biquirinha 2
+45,Eduardo Rodrigues,29,M,11925584624,eduardo.rodrigues@email.com,Não,Biquirinha 2
+46,Fernanda Souza,21,M,11927938523,fernanda.souza@email.com,Sim,Biquirinha 2
+47,Rafael Silva,18,M,11947500433,rafael.silva@email.com,Sim,Freitas
+48,Ana Costa,32,F,11937098227,ana.costa@email.com,Não,Altos da Vila Paiva
+49,Patrícia Pereira,46,F,11921244333,patrícia.pereira@email.com,Sim,Mirante
+50,Eduardo Santos,42,M,11974472682,eduardo.santos@email.com,Sim,Vila Cândida
+51,Bruno Souza,26,M,11942860318,bruno.souza@email.com,Sim,Vila Paiva
+52,Fernanda Lima,59,F,11949578303,fernanda.lima@email.com,Sim,Mirante
+53,Natália Rodrigues,58,M,11927269176,natália.rodrigues@email.com,Sim,Mirante
+54,Larissa Pereira,23,M,11908079399,larissa.pereira@email.com,Não,Boa Vista
+55,Sabrina Costa,45,F,11944112630,sabrina.costa@email.com,Sim,Buquirinha
+56,Daniela Silva,56,F,11978910372,daniela.silva@email.com,Não,Vila Cândida
+57,Daniela Lima,38,M,11963130522,daniela.lima@email.com,Sim,Boa Vista
+58,Patrícia Lima,25,F,11971098442,patrícia.lima@email.com,Sim,Boa Vista
+59,Daniela Rodrigues,56,F,11977217778,daniela.rodrigues@email.com,Não,Vila Paiva
+60,Gabriel Pereira,57,M,11934835355,gabriel.pereira@email.com,Sim,Buquirinha
+61,Rafael Santos,27,M,11930844531,rafael.santos@email.com,Sim,Buquirinha
+62,Ana Santos,23,F,11987771457,ana.santos@email.com,Sim,Buquirinha
+63,Thiago Lima,26,M,11950561545,thiago.lima@email.com,Sim,Boa Vista
+64,Thiago Souza,35,M,11946623416,thiago.souza@email.com,Não,Boa Vista
+65,Igor Pereira,31,M,11998801309,igor.pereira@email.com,Não,Freitas
+66,Igor Costa,61,M,11926364938,igor.costa@email.com,Não,Altos da Vila Paiva
+67,Carlos Ferreira,40,F,11984912611,carlos.ferreira@email.com,Sim,Biquirinha 2
+68,Sabrina Santos,27,F,11923391778,sabrina.santos@email.com,Não,Mirante
+69,Rafael Oliveira,65,M,11925442625,rafael.oliveira@email.com,Não,Buquirinha
+70,Daniela Souza,35,M,11955242973,daniela.souza@email.com,Não,Vila Cândida
+71,Otávio Souza,24,M,11982577052,otávio.souza@email.com,Sim,Freitas
+72,Sabrina Silva,33,F,11920311588,sabrina.silva@email.com,Não,Boa Vista
+73,Igor Souza,32,F,11994775602,igor.souza@email.com,Sim,Mirante
+74,Juliana Pereira,33,F,11948688426,juliana.pereira@email.com,Não,Freitas
+75,Helena Silva,56,F,11916977084,helena.silva@email.com,Não,Biquirinha 2
+76,Gabriel Oliveira,54,F,11923799031,gabriel.oliveira@email.com,Sim,Biquirinha 2
+77,Marcos Costa,50,F,11984704522,marcos.costa@email.com,Não,Mirante
+78,Rafael Rodrigues,50,M,11982241488,rafael.rodrigues@email.com,Sim,Mirante
+79,Juliana Pereira,39,M,11934102859,juliana.pereira@email.com,Sim,Taquari
+80,Gabriel Almeida,33,F,11931760462,gabriel.almeida@email.com,Não,Boa Vista

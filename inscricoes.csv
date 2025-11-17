@@ -1,0 +1,201 @@
+ID_Inscricao,ID_Pessoa,ID_Evento,Data_Inscricao,Presenca,Observacao
+1,25,8,2025-01-03,Sim,Participou parcialmente
+2,72,18,2025-12-10,Não,Participou parcialmente
+3,44,15,2025-01-28,Sim,
+4,76,13,2025-02-18,Sim,
+5,28,3,2025-10-01,Não,Participou parcialmente
+6,43,10,2025-07-07,Sim,
+7,67,6,2025-09-05,Não,
+8,53,3,2025-07-04,Sim,
+9,35,18,2025-08-26,Não,Participou parcialmente
+10,35,4,2025-02-22,Não,Ausente por motivo pessoal
+11,78,10,2025-04-20,Sim,Participou parcialmente
+12,65,15,2025-05-07,Não,Participou todo o evento
+13,5,12,2025-12-14,Não,Participou parcialmente
+14,77,4,2025-10-13,Sim,Participou parcialmente
+15,15,10,2025-05-12,Não,
+16,79,3,2025-03-12,Não,Participou todo o evento
+17,74,8,2025-11-26,Não,Ausente por motivo pessoal
+18,20,9,2025-11-30,Sim,Participou parcialmente
+19,76,1,2025-08-18,Não,Participou todo o evento
+20,73,5,2025-06-01,Não,Ausente por motivo pessoal
+21,16,12,2025-07-05,Não,
+22,18,10,2025-02-27,Não,
+23,75,2,2025-01-21,Não,Participou todo o evento
+24,57,2,2025-01-06,Sim,Ausente por motivo pessoal
+25,23,15,2025-01-16,Não,Participou parcialmente
+26,47,2,2025-05-19,Não,Participou todo o evento
+27,78,5,2025-01-03,Não,Ausente por motivo pessoal
+28,16,12,2025-08-30,Não,Ausente por motivo pessoal
+29,20,20,2025-04-22,Não,Participou todo o evento
+30,73,19,2025-09-04,Não,Ausente por motivo pessoal
+31,75,10,2025-09-13,Não,Participou todo o evento
+32,65,18,2025-10-24,Sim,Ausente por motivo pessoal
+33,29,1,2025-08-08,Sim,
+34,65,20,2025-09-20,Sim,Participou parcialmente
+35,65,10,2025-02-02,Sim,Participou todo o evento
+36,36,14,2025-05-01,Não,
+37,66,19,2025-11-05,Sim,Participou parcialmente
+38,40,4,2025-05-31,Sim,
+39,10,8,2025-11-13,Não,Participou parcialmente
+40,23,10,2025-03-02,Sim,
+41,70,2,2025-05-14,Sim,
+42,59,12,2025-02-02,Sim,Participou parcialmente
+43,76,6,2025-07-10,Sim,Ausente por motivo pessoal
+44,62,4,2025-07-16,Sim,Participou parcialmente
+45,76,19,2025-04-13,Sim,
+46,67,9,2025-01-31,Sim,
+47,44,2,2025-03-29,Sim,Participou parcialmente
+48,11,18,2025-04-18,Sim,Participou parcialmente
+49,60,6,2025-03-07,Não,
+50,27,3,2025-07-16,Não,Participou parcialmente
+51,10,11,2025-01-15,Sim,Participou todo o evento
+52,15,2,2025-11-10,Não,
+53,62,4,2025-05-30,Não,Ausente por motivo pessoal
+54,33,11,2025-02-10,Sim,Participou todo o evento
+55,33,4,2025-05-10,Sim,Participou todo o evento
+56,69,15,2025-06-11,Não,Ausente por motivo pessoal
+57,47,14,2025-07-01,Não,
+58,79,18,2025-08-06,Sim,Participou todo o evento
+59,61,18,2025-10-08,Sim,Ausente por motivo pessoal
+60,49,8,2025-05-18,Não,Ausente por motivo pessoal
+61,31,20,2025-06-29,Não,Participou parcialmente
+62,70,15,2025-05-01,Sim,Participou parcialmente
+63,41,18,2025-04-29,Não,Participou todo o evento
+64,44,14,2025-09-08,Não,Participou todo o evento
+65,46,11,2025-08-15,Sim,Participou todo o evento
+66,8,19,2025-03-08,Não,Participou todo o evento
+67,80,19,2025-06-25,Sim,Participou todo o evento
+68,29,18,2025-12-25,Não,Participou todo o evento
+69,24,17,2025-10-22,Sim,
+70,70,3,2025-08-19,Não,
+71,26,2,2025-01-19,Não,Ausente por motivo pessoal
+72,33,14,2025-12-05,Sim,Participou parcialmente
+73,22,17,2025-10-29,Não,
+74,68,4,2025-06-29,Sim,Ausente por motivo pessoal
+75,15,9,2025-12-21,Sim,Participou parcialmente
+76,43,12,2025-02-20,Não,Participou parcialmente
+77,43,1,2025-07-19,Não,
+78,34,6,2025-01-13,Sim,
+79,46,1,2025-09-22,Sim,Ausente por motivo pessoal
+80,19,17,2025-10-04,Sim,Participou parcialmente
+81,48,17,2025-02-15,Não,Participou parcialmente
+82,17,7,2025-10-16,Sim,Participou todo o evento
+83,20,20,2025-06-12,Não,Participou todo o evento
+84,69,16,2025-11-19,Não,Ausente por motivo pessoal
+85,68,2,2025-08-14,Não,Participou todo o evento
+86,80,17,2025-10-30,Não,
+87,35,7,2025-12-03,Não,Participou todo o evento
+88,2,4,2025-06-16,Sim,Ausente por motivo pessoal
+89,74,13,2025-12-19,Não,Ausente por motivo pessoal
+90,40,10,2025-06-10,Sim,Participou todo o evento
+91,18,12,2025-11-11,Sim,Participou todo o evento
+92,47,1,2025-09-21,Não,Participou parcialmente
+93,11,16,2025-04-06,Não,Participou todo o evento
+94,43,20,2025-05-08,Não,Ausente por motivo pessoal
+95,33,5,2025-07-23,Não,Ausente por motivo pessoal
+96,24,19,2025-09-01,Sim,
+97,33,3,2025-01-30,Sim,
+98,61,15,2025-03-04,Sim,Participou todo o evento
+99,45,10,2025-06-02,Sim,
+100,34,8,2025-03-10,Não,Participou parcialmente
+101,68,5,2025-04-05,Sim,Participou parcialmente
+102,27,13,2025-10-22,Não,Participou todo o evento
+103,39,19,2025-02-26,Não,Participou todo o evento
+104,59,14,2025-08-24,Sim,Participou todo o evento
+105,40,16,2025-04-19,Não,
+106,74,3,2025-06-30,Não,Participou todo o evento
+107,26,8,2025-10-13,Não,
+108,25,8,2025-07-15,Sim,Ausente por motivo pessoal
+109,3,2,2025-12-27,Não,Participou todo o evento
+110,55,4,2025-08-29,Não,Participou parcialmente
+111,42,18,2025-10-28,Sim,Ausente por motivo pessoal
+112,48,3,2025-09-25,Não,Ausente por motivo pessoal
+113,68,1,2025-05-04,Sim,
+114,46,19,2025-06-27,Sim,
+115,28,13,2025-04-29,Não,Ausente por motivo pessoal
+116,30,5,2025-02-18,Não,
+117,29,5,2025-10-06,Não,Participou todo o evento
+118,52,1,2025-10-04,Sim,Participou parcialmente
+119,61,4,2025-01-28,Sim,Participou todo o evento
+120,72,5,2025-07-07,Não,Participou parcialmente
+121,78,14,2025-10-14,Sim,Participou todo o evento
+122,49,16,2025-02-20,Não,Ausente por motivo pessoal
+123,40,8,2025-05-21,Sim,Ausente por motivo pessoal
+124,44,6,2025-11-27,Sim,Participou todo o evento
+125,41,3,2025-02-26,Sim,Participou parcialmente
+126,73,20,2025-12-03,Não,Participou todo o evento
+127,18,12,2025-11-17,Sim,Participou todo o evento
+128,3,4,2025-12-03,Não,Ausente por motivo pessoal
+129,50,20,2025-12-12,Não,Participou parcialmente
+130,76,10,2025-06-24,Sim,Participou todo o evento
+131,80,13,2025-12-20,Sim,Participou todo o evento
+132,57,19,2025-11-04,Sim,Participou todo o evento
+133,73,19,2025-10-11,Não,
+134,60,18,2025-06-13,Sim,Participou todo o evento
+135,15,10,2025-07-22,Sim,Participou todo o evento
+136,30,2,2025-12-17,Não,Ausente por motivo pessoal
+137,7,14,2025-08-12,Sim,Ausente por motivo pessoal
+138,55,1,2025-09-12,Não,Participou todo o evento
+139,24,1,2025-07-29,Sim,Participou todo o evento
+140,8,4,2025-03-19,Não,
+141,68,16,2025-11-21,Não,Participou todo o evento
+142,68,17,2025-11-04,Não,Participou parcialmente
+143,71,20,2025-11-25,Sim,Participou parcialmente
+144,46,20,2025-11-09,Sim,
+145,36,5,2025-08-24,Sim,Participou parcialmente
+146,59,15,2025-04-16,Não,Participou todo o evento
+147,39,20,2025-12-26,Sim,Ausente por motivo pessoal
+148,12,16,2025-07-01,Sim,Participou parcialmente
+149,70,4,2025-04-19,Sim,Participou todo o evento
+150,7,11,2025-06-18,Não,
+151,29,9,2025-07-09,Não,Participou todo o evento
+152,2,7,2025-09-24,Não,Participou todo o evento
+153,42,15,2025-05-22,Não,Participou todo o evento
+154,76,15,2025-03-30,Sim,Ausente por motivo pessoal
+155,27,15,2025-04-21,Sim,Participou parcialmente
+156,5,1,2025-01-10,Não,
+157,29,1,2025-04-27,Não,
+158,65,2,2025-05-05,Sim,Participou parcialmente
+159,37,3,2025-04-20,Não,Ausente por motivo pessoal
+160,52,2,2025-08-29,Sim,Participou todo o evento
+161,13,19,2025-03-22,Sim,
+162,17,5,2025-11-30,Não,Ausente por motivo pessoal
+163,55,1,2025-04-12,Não,Ausente por motivo pessoal
+164,40,17,2025-09-28,Não,Ausente por motivo pessoal
+165,68,9,2025-09-11,Sim,Ausente por motivo pessoal
+166,52,7,2025-09-04,Não,
+167,17,14,2025-04-25,Não,Participou parcialmente
+168,48,7,2025-07-26,Sim,Participou todo o evento
+169,80,1,2025-06-07,Sim,Participou parcialmente
+170,3,6,2025-01-01,Não,
+171,8,20,2025-06-09,Sim,
+172,32,1,2025-10-07,Não,
+173,47,15,2025-08-22,Não,
+174,59,19,2025-02-23,Sim,
+175,22,8,2025-08-19,Sim,Participou parcialmente
+176,71,19,2025-09-21,Não,Participou todo o evento
+177,63,11,2025-08-27,Sim,Participou todo o evento
+178,60,17,2025-11-02,Sim,
+179,8,7,2025-11-16,Sim,Ausente por motivo pessoal
+180,64,18,2025-11-08,Não,Ausente por motivo pessoal
+181,36,19,2025-03-17,Sim,Participou todo o evento
+182,64,4,2025-09-28,Não,Participou parcialmente
+183,61,4,2025-11-03,Não,
+184,16,6,2025-04-08,Sim,
+185,32,14,2025-01-01,Sim,Participou todo o evento
+186,32,20,2025-01-02,Sim,Participou todo o evento
+187,3,9,2025-08-30,Não,
+188,32,8,2025-01-10,Sim,Participou parcialmente
+189,51,5,2025-02-17,Não,Ausente por motivo pessoal
+190,44,12,2025-12-27,Não,Participou todo o evento
+191,66,17,2025-03-25,Sim,
+192,65,9,2025-11-24,Sim,
+193,72,3,2025-08-08,Sim,Participou parcialmente
+194,77,4,2025-09-01,Sim,
+195,11,8,2025-06-14,Sim,Ausente por motivo pessoal
+196,8,15,2025-10-02,Não,
+197,14,13,2025-03-26,Não,Participou todo o evento
+198,77,6,2025-08-07,Sim,
+199,17,6,2025-01-19,Sim,Ausente por motivo pessoal
+200,65,17,2025-08-22,Não,

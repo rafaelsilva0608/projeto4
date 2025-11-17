@@ -1,0 +1,21 @@
+ID_Evento,Nome_Evento,Data_Evento,Local,Responsavel,Categoria,Capacidade,Descricao
+1,Missa  Pastoral,2025-06-07,Salão Paroquial,Ana Souza,Missa,100,Descrição do evento 1.
+2,Ensaio Coral,2025-04-25,Sala de Reunião,Maria Oliveira,Ensaio,100,Descrição do evento 2.
+3,Congresso,2025-02-06,Sala de Reunião,Ana Souza,Congresso,100,Descrição do evento 3.
+4,Ensaio Missa,2025-03-10,Sala de Reunião,Carlos Pereira,Ensaio,100,Descrição do evento 4.
+5,Retiro Jovens,2025-03-18,Sala 10,Juliana Ramos,Retiro,100,Descrição do evento 5.
+6,Missa Crianças,2025-11-14,Salão Principal,Maria Oliveira,Missa,100,Descrição do evento 6.
+7,Reunião Pastoral Comunicação,2025-03-03,Salão Principal,João Santos,Reunião,100,Descrição do evento 7.
+8,Retiro Crianças,2025-09-07,Sala de Reunião,Ana Souza,Retiro,100,Descrição do evento 8.
+9,Reunião Past. Juventude,2025-07-10,Igreja,Paulo Lima,Reunião,100,Descrição do evento 9.
+10,Reunião Pascom,2025-10-04,Salão Infantil,Maria Oliveira,Reunião,100,Descrição do evento 10.
+11,Ensaio 1,2025-02-04,Sala de Reunião,Maria Oliveira,Ensaio,100,Descrição do evento 11.
+12,Congresso 1,2025-04-12,Salão Infantil,Paulo Lima,Congresso,100,Descrição do evento 12.
+13,Retiro 2,2025-05-08,Igreja,Juliana Ramos,Retiro,100,Descrição do evento 13.
+14,Treinamento 14,2025-10-23,Salão Infantil,Paulo Lima,Congresso,100,Descrição do evento 14.
+15,Retiro 3,2025-01-11,Sala 10,João Santos,Retiro,100,Descrição do evento 15.
+16,Retiro 4,2025-09-07,Sala de Reunião,Carlos Pereira,Retiro,100,Descrição do evento 16.
+17,Missa,2025-05-03,Sala de Reunião,Paulo Lima,Missa,100,Descrição do evento 17.
+18,Treinamento 18,2025-12-23,Igreja,Ana Souza,Congresso,100,Descrição do evento 18.
+19,Treinamento 19,2025-08-12,Sala de Reunião,João Santos,Congresso,100,Descrição do evento 19.
+20,Reunião 20,2025-06-12,Igreja,Paulo Lima,Reunião,100,Descrição do evento 20.
