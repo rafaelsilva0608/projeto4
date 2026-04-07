@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Padroeiro — São José</title>
+    <link rel="stylesheet" href="css/principal.css">
+    <link rel="stylesheet" href="css/historia.css">
+</head>
+<body>
+    <header class="portal-header">
+        <div class="top-bar">
+            <h1>Paróquia — área logada</h1>
+            <span class="user" id="user-display-name"></span>
+            <button type="button" class="btn-sair" id="btn-sair">Sair</button>
+        </div>
+        <nav class="main-nav" aria-label="Navegação principal">
+            <ul class="nav-list">
+                <li><a href="pagina_principal.html" class="nav-link">Início</a></li>
+                <li>
+                    <details class="nav-dropdown">
+                        <summary class="nav-link">A Paróquia</summary>
+                        <div class="dropdown-menu">
+                            <a href="historia.html" class="dropdown-item">Nossa História</a>
+                            <a href="padroeiro.html" class="dropdown-item">Padroeiro(a)</a>
+                        </div>
+                    </details>
+                </li>
+                <li>
+                    <details class="nav-dropdown">
+                        <summary class="nav-link">Liturgia</summary>
+                        <div class="dropdown-menu">
+                            <a href="horario-missas.html" class="dropdown-item">Horário de Missas</a>
+                            <a href="#" class="dropdown-item">Calendário</a>
+                            <a href="leituras.html" class="dropdown-item">Leituras</a>
+                        </div>
+                    </details>
+                </li>
+                <li><a href="contato.html" class="nav-link">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="historia-main">
+        <a class="back-link" href="pagina_principal.html">← Voltar ao início</a>
+
+        <article class="historia-article" lang="pt-BR">
+            <header>
+                <h1>São José — padroeiro da Diocese de São José dos Campos</h1>
+                <p class="meta">São José é também patrono universal da Igreja. A Igreja celebra solenemente a sua santidade no dia 19 de março.</p>
+            </header>
+
+            <figure class="historia-figure">
+                <img
+                    src="img/sao-jose-operario.png"
+                    alt="Pintura devocional: São José Operário na carpintaria com o Menino Jesus sobre a bancada; lírios ao fundo, símbolo de São José."
+                    loading="lazy"
+                    decoding="async"
+                >
+                <figcaption>São José Operário com o Menino Jesus</figcaption>
+            </figure>
+
+            <div class="historia-body">
+                <p>Já na Carta de pedido de criação da nova Diocese ao Santo Padre, o então Bispo de Taubaté, Dom José Antonio do Couto, scj, definia que o titular da Catedral será <strong>São Dimas</strong> e o da Diocese <strong>São José</strong>. É também <strong>Patrono mundial da Igreja</strong>.</p>
+
+                <p>No dia 19 de março, a Igreja celebra solenemente a santidade de vida de São José; por isso reza com ardor na Liturgia:</p>
+
+                <blockquote class="hymn">
+                    “Celebre a José a corte celeste prossiga o louvor o povo cristão: Só ele merece à Virgem se unir em casta união.”
+                </blockquote>
+
+                <p>São José, venerado de modo especial neste dia, é um dos santos mais conhecidos no cristianismo, tanto assim que inspirou o nome a dezenas de santos da Igreja e também a outros cristãos que neste dia comemoram seu onomástico (festa pelo mesmo nome do santo do dia). O nome José, em hebraico, significa: <em>Deus cumula de bens</em>; e sem dúvida este conhecido carpinteiro de Nazaré foi cumulado de bens ao não recusar sua missão de esposo da Virgem Maria e pai adotivo de Nosso Senhor Jesus Cristo:</p>
+
+                <p>“Ao despertar, José fez o que o Anjo do Senhor lhe prescrevera: acolheu em sua casa a sua esposa.” <cite class="ref">(Mt 1,24)</cite></p>
+
+                <p>A grande devoção dos cristãos para com São José está fundamentada nas Sagradas Escrituras e na Sagrada Tradição; portanto, é com realismo que São José é reconhecido e invocado como modelo de pai, operário, protetor da Sagrada Família e da grande Família de Deus que é a Igreja. Embora na Bíblia pouco se fale sobre a figura de São José, o que nos é comunicado testemunha com clareza seu papel indispensável à missão de Cristo. Homem justo, trabalhador, silencioso e com fé, tornou-se suficientemente moldado pelas mãos do Oleiro divino, a ponto de ser constituído elo entre o Antigo e o Novo Testamento e conferir a Jesus a linhagem de Davi — a qual somente foi possível porque São José, acima de tudo, foi homem de fé e coragem, como atesta São Mateus:</p>
+
+                <p>“José, filho de Davi, não temas receber Maria por esposa, pois o que nela foi concebido vem do Espírito Santo”; e despertando, José fez como o anjo do Senhor lhe havia mandado e recebeu em sua casa sua esposa <cite class="ref">(Mt 1,20.24)</cite>.</p>
+            </div>
+        </article>
+    </main>
+
+    <script src="js/auth.js"></script>
+    <script src="js/padroeiro.js"></script>
+</body>
+</html>

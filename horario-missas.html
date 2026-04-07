@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horário de Missas</title>
+    <link rel="stylesheet" href="css/principal.css">
+    <link rel="stylesheet" href="css/horario-missas.css">
+</head>
+<body>
+    <header class="portal-header">
+        <div class="top-bar">
+            <h1><a href="pagina_principal.html" class="top-bar-home">Portal Paróquia</a></h1>
+            <span class="user" id="user-display-name"></span>
+            <button type="button" class="btn-sair" id="btn-sair">Sair</button>
+        </div>
+        <nav class="main-nav" aria-label="Navegação principal">
+            <ul class="nav-list">
+                <li><a href="pagina_principal.html" class="nav-link">Início</a></li>
+                <li><a href="horario-missas.html" class="nav-link">Horário de Missas</a></li>
+                <li><a href="index.html" class="nav-link">Cadastro</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="diocese-top-strip" id="parish-strip" role="note"></div>
+
+    <div class="diocese-brand">
+        <div class="diocese-brand-inner">
+            <h2 id="parish-brand-title">Paróquia</h2>
+        </div>
+    </div>
+
+    <main class="schedule-page">
+        <a class="back-portal" href="pagina_principal.html">← Voltar à área logada</a>
+
+        <h1>Horário de Missas</h1>
+
+        <section class="schedule-filters" aria-labelledby="filtros-titulo">
+            <p id="filtros-titulo" class="label">Selecione os dias da semana</p>
+            <div class="day-buttons" role="group" aria-label="Dias da semana" id="day-buttons"></div>
+            <div class="time-row">
+                <div class="time-field">
+                    <label for="horario-info">Informe o Horário</label>
+                    <input id="horario-info" type="text" placeholder="Ex.: 18:00" autocomplete="off">
+                </div>
+                <div class="time-field">
+                    <label for="horario-inicial">Horário Inicial</label>
+                    <input id="horario-inicial" type="time">
+                </div>
+            </div>
+            <p class="schedule-note">
+                <strong>Obs.:</strong> Horários sujeitos a alterações, conforme a necessidade pastoral da paróquia ou comunidade.
+            </p>
+        </section>
+
+        <div class="schedule-results-wrap">
+            <table class="schedule-table" aria-label="Lista de horários de missa">
+                <thead>
+                    <tr>
+                        <th>Paróquia / Comunidade</th>
+                        <th>Local</th>
+                        <th>Dia</th>
+                        <th>Horários</th>
+                    </tr>
+                </thead>
+                <tbody id="schedule-tbody"></tbody>
+            </table>
+            <p id="schedule-empty" class="schedule-empty" hidden>Nenhum horário encontrado com os filtros atuais.</p>
+        </div>
+    </main>
+
+    <footer class="diocese-footer">
+        <div class="diocese-footer-inner">
+            <h3 id="footer-parish-name">Paróquia</h3>
+            <ul class="diocese-footer-links diocese-footer-links--internal">
+                <li><a href="pagina_principal.html">Início</a></li>
+                <li><a href="horario-missas.html">Horário de Missas</a></li>
+                <li><a href="entrar.html">Entrar</a></li>
+                <li><a href="index.html">Cadastro</a></li>
+            </ul>
+            <div class="diocese-footer-contact" id="footer-contact"></div>
+            <p class="diocese-footer-copy">© <span id="footer-year"></span> — Portal da paróquia (conteúdo local).</p>
+        </div>
+    </footer>
+
+    <script src="js/auth.js"></script>
+    <script src="js/paroquia-dados.js"></script>
+    <script src="js/horario-missas.js"></script>
+</body>
+</html>

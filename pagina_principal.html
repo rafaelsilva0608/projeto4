@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Área da Paróquia</title>
+    <link rel="stylesheet" href="css/principal.css">
+</head>
+<body>
+    <header class="portal-header">
+        <div class="top-bar">
+            <h1>Paróquia — área logada</h1>
+            <span class="user" id="user-display-name"></span>
+            <button type="button" class="btn-sair" id="btn-sair">Sair</button>
+        </div>
+
+        <nav class="main-nav" aria-label="Navegação principal">
+            <ul class="nav-list">
+                <li><a href="pagina_principal.html" class="nav-link">Início</a></li>
+                <li>
+                    <details class="nav-dropdown">
+                        <summary class="nav-link">A Paróquia</summary>
+                        <div class="dropdown-menu">
+                            <a href="historia.html" class="dropdown-item">Nossa História</a>
+                            <a href="padroeiro.html" class="dropdown-item">Padroeiro(a)</a>
+                        </div>
+                    </details>
+                </li>
+                <li>
+                    <details class="nav-dropdown">
+                        <summary class="nav-link">Liturgia</summary>
+                        <div class="dropdown-menu">
+                            <a href="horario-missas.html" class="dropdown-item">Horário de Missas</a>
+                            <a href="#" class="dropdown-item">Calendário</a>
+                            <a href="leituras.html" class="dropdown-item">Leituras</a>
+                        </div>
+                    </details>
+                </li>
+                <li><a href="contato.html" class="nav-link">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="portal-main">
+        <section class="hero hero--with-image">
+            <div class="hero-text">
+                <h2>Bem-vindo(a)</h2>
+                <p>Você está autenticado com segurança. Use o menu para acessar informações da sua paróquia.</p>
+            </div>
+            <figure class="hero-figure">
+                <img
+                    src="img/sao-jose-operario.png"
+                    alt="São José Operário com o Menino Jesus na carpintaria."
+                    loading="lazy"
+                    decoding="async"
+                >
+            </figure>
+        </section>
+
+        <section class="portal-grid">
+            <section class="card">
+                <h2>Seu Cadastro</h2>
+                <p>Dados do seu perfil na área logada.</p>
+                <dl>
+                    <dt>E-mail</dt>
+                    <dd id="user-email"></dd>
+                    <dt>Primeiro nome</dt>
+                    <dd id="profile-firstname"></dd>
+                    <dt>Sobrenome</dt>
+                    <dd id="profile-lastname"></dd>
+                    <dt>Celular</dt>
+                    <dd id="profile-phone"></dd>
+                    <dt>Gênero</dt>
+                    <dd id="profile-gender"></dd>
+                </dl>
+            </section>
+
+            <section class="card">
+                <h2>Informações da Paróquia</h2>
+                <p>Dados institucionais para consulta rápida.</p>
+                <dl>
+                    <dt>Paróquia</dt>
+                    <dd id="parish-name"></dd>
+                    <dt>Pároco</dt>
+                    <dd id="parish-priest"></dd>
+                    <dt>Endereço</dt>
+                    <dd id="parish-address"></dd>
+                    <dt>Telefone</dt>
+                    <dd id="parish-phone"></dd>
+                    <dt>E-mail</dt>
+                    <dd id="parish-email"></dd>
+                    <dt>Horário de Missas</dt>
+                    <dd id="parish-mass-hours"></dd>
+                </dl>
+            </section>
+        </section>
+
+        <section class="portal-panels">
+            <div class="panel">
+                <h3>Contato</h3>
+                <p class="muted">Paróquia: veja <strong>Informações da Paróquia</strong> acima. Cúria Diocesana e setores: <a href="contato.html">página de contato</a>.</p>
+            </div>
+        </section>
+    </main>
+    <script src="js/auth.js"></script>
+    <script src="js/paroquia-dados.js"></script>
+    <script src="js/principal.js"></script>
+</body>
+</html>
