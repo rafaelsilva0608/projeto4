@@ -1,0 +1,181 @@
+/* Página Leituras — textos litúrgicos */
+
+.leituras-main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem 3rem;
+}
+
+.leituras-main .back-link {
+  display: inline-block;
+  margin-bottom: 1.25rem;
+  color: #fff;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.leituras-main .back-link:hover {
+  text-decoration: underline;
+}
+
+.leituras-toc {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+.leituras-toc h2 {
+  font-size: 1rem;
+  color: #832c2c;
+  margin-bottom: 0.75rem;
+}
+
+.leituras-toc ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+}
+
+.leituras-toc a {
+  color: #1a4d7a;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.leituras-toc a:hover {
+  text-decoration: underline;
+}
+
+.refs-ceia {
+  background: #f8f4f2;
+  border-left: 4px solid #832c2c;
+  padding: 1rem 1.25rem;
+  margin-bottom: 2rem;
+  border-radius: 0 8px 8px 0;
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+
+.refs-ceia h3 {
+  font-size: 0.95rem;
+  color: #832c2c;
+  margin-bottom: 0.5rem;
+}
+
+.refs-ceia pre,
+.refs-ceia .refs-list {
+  margin: 0;
+  white-space: pre-wrap;
+  font-family: inherit;
+  color: #333;
+}
+
+.liturgia-missa {
+  background: #fff;
+  border-radius: 12px;
+  padding: 1.75rem;
+  margin-bottom: 2rem;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.12);
+}
+
+.liturgia-missa > h2 {
+  font-size: 1.4rem;
+  color: #832c2c;
+  padding-bottom: 0.75rem;
+  margin-bottom: 1.25rem;
+  border-bottom: 2px solid #832c2c;
+}
+
+.leitura-bloco {
+  margin-bottom: 1.75rem;
+}
+
+.leitura-bloco:last-child {
+  margin-bottom: 0;
+}
+
+.leitura-bloco h3 {
+  font-size: 1.05rem;
+  color: #1a4d7a;
+  margin-bottom: 0.35rem;
+}
+
+.leitura-bloco .fonte {
+  font-size: 0.88rem;
+  color: #555;
+  font-style: italic;
+  margin-bottom: 0.75rem;
+}
+
+.leitura-bloco .intro {
+  font-size: 0.95rem;
+  margin-bottom: 0.75rem;
+  color: #333;
+}
+
+.texto-biblico p {
+  margin-bottom: 0.65rem;
+  line-height: 1.75;
+  color: #222;
+  text-align: justify;
+}
+
+.texto-biblico .nv {
+  font-weight: 700;
+  color: #832c2c;
+  margin-right: 0.2em;
+}
+
+.salmo .resposta {
+  margin: 0.75rem 0;
+  padding: 0.5rem 0.75rem;
+  background: #faf8f8;
+  border-radius: 6px;
+  font-weight: 600;
+  color: #444;
+}
+
+.salmo .estrofe {
+  margin-bottom: 0.75rem;
+}
+
+.aclamacao {
+  margin: 1rem 0;
+  padding: 1rem;
+  background: #f0f4f8;
+  border-radius: 8px;
+}
+
+.aclamacao .r {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.aclamacao .v {
+  white-space: pre-wrap;
+  line-height: 1.6;
+}
+
+.palavra-fim {
+  margin-top: 1rem;
+  font-weight: 600;
+  color: #832c2c;
+}
+
+.fonte-cnbb {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ddd;
+  font-size: 0.82rem;
+  color: #666;
+  font-style: italic;
+}
+
+@media (max-width: 640px) {
+  .texto-biblico p {
+    text-align: left;
+  }
+}

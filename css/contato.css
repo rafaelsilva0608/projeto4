@@ -1,0 +1,85 @@
+/* Página Contato — Cúria e setores */
+
+.contato-main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem 3rem;
+}
+
+.contato-main .back-link {
+  display: inline-block;
+  margin-bottom: 1.25rem;
+  color: #fff;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.contato-main .back-link:hover {
+  text-decoration: underline;
+}
+
+.contato-intro {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  color: #333;
+  line-height: 1.6;
+  font-size: 0.95rem;
+}
+
+.contato-cards {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.contato-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.12);
+}
+
+.contato-card h2 {
+  font-size: 1.15rem;
+  color: #832c2c;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #eee;
+}
+
+.contato-card .horario {
+  font-weight: 600;
+  color: #444;
+  margin-bottom: 0.75rem;
+  font-size: 0.95rem;
+}
+
+.contato-card .detalhes {
+  font-size: 0.92rem;
+  line-height: 1.65;
+  color: #333;
+}
+
+.contato-card .detalhes p {
+  margin-bottom: 0.5rem;
+}
+
+.contato-card .detalhes a {
+  color: #1a4d7a;
+  font-weight: 500;
+  word-break: break-word;
+}
+
+.contato-card .detalhes a:hover {
+  text-decoration: underline;
+}
+
+.contato-nota {
+  margin-top: 2rem;
+  font-size: 0.85rem;
+  color: #666;
+  font-style: italic;
+  line-height: 1.5;
+}

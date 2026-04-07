@@ -1,0 +1,227 @@
+/* Página Horário de Missas — alinhada ao portal Diocese São José dos Campos */
+
+.diocese-top-strip {
+  background: #2c3e50;
+  color: #ecf0f1;
+  font-size: 0.85rem;
+  padding: 0.5rem 1rem;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.diocese-brand {
+  background: #fff;
+  padding: 1rem 1.5rem;
+  border-bottom: 3px solid #1a4d7a;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.diocese-brand-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.diocese-brand h2 {
+  font-size: 1.35rem;
+  color: #1a4d7a;
+  font-weight: 700;
+}
+
+.schedule-page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 2rem;
+}
+
+.schedule-page h1 {
+  font-size: 1.75rem;
+  color: #1a1a1a;
+  margin-bottom: 1.25rem;
+  border-bottom: 2px solid #1a4d7a;
+  padding-bottom: 0.5rem;
+}
+
+.schedule-filters {
+  background: #fff;
+  border-radius: 10px;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+.schedule-filters p.label {
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 0.75rem;
+}
+
+.day-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.day-btn {
+  border: 1px solid #1a4d7a;
+  background: #fff;
+  color: #1a4d7a;
+  padding: 0.45rem 0.85rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.day-btn:hover,
+.day-btn.is-active {
+  background: #1a4d7a;
+  color: #fff;
+}
+
+.time-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 1rem;
+}
+
+.time-field label {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #555;
+  margin-bottom: 0.35rem;
+}
+
+.time-field input {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  min-width: 140px;
+}
+
+.schedule-note {
+  margin-top: 1rem;
+  font-size: 0.88rem;
+  color: #555;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+.top-bar-home {
+  color: inherit;
+  text-decoration: none;
+}
+
+.schedule-results-wrap {
+  background: #fff;
+  border-radius: 10px;
+  overflow: auto;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  margin-top: 0.5rem;
+}
+
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+
+.schedule-table th,
+.schedule-table td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.schedule-table th {
+  background: #f5f7fa;
+  color: #1a4d7a;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.schedule-table tbody tr:hover {
+  background: #fafbfc;
+}
+
+.schedule-empty {
+  padding: 1.25rem;
+  color: #666;
+  font-size: 0.92rem;
+}
+
+.diocese-footer-links--internal a {
+  color: #aed4ff;
+}
+
+.diocese-footer {
+  background: #1a1a1a;
+  color: #ccc;
+  margin-top: 2rem;
+  padding: 2rem 1rem;
+}
+
+.diocese-footer-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.diocese-footer h3 {
+  color: #fff;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.diocese-footer-links {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 0.5rem 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.diocese-footer-links a {
+  color: #aed4ff;
+  text-decoration: none;
+  font-size: 0.88rem;
+}
+
+.diocese-footer-links a:hover {
+  text-decoration: underline;
+}
+
+.diocese-footer-contact {
+  font-size: 0.88rem;
+  line-height: 1.6;
+  padding-top: 1rem;
+  border-top: 1px solid #444;
+  color: #aaa;
+}
+
+.diocese-footer-copy {
+  margin-top: 1rem;
+  font-size: 0.8rem;
+  color: #777;
+}
+
+.back-portal {
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: #fff;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.back-portal:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 640px) {
+  .schedule-table th,
+  .schedule-table td {
+    padding: 0.55rem 0.65rem;
+    font-size: 0.85rem;
+  }
+}
