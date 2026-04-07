@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="stylesheet" href="css/entrar.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head>
+<body>
+    <div class="login-box">
+         <button type="button" class="back-button" onclick="history.back()">↩</button>
+        <h2>Login</h2>
+        <div class="form">
+            <form id="form-login" action="#" method="post" novalidate>
+                <p id="form-message" class="form-message" role="alert"></p>
+                <div class="input-group">
+
+                            <div class="input-box">
+                                <label for="email">E-mail</label>
+                                <input id="email" type="email" name="email" placeholder="E-mail" required autocomplete="email">
+                            </div>
+                 
+                            <div class="input-box">
+                                <label for="password">Senha</label>
+                                <input id="password" type="password" name="password" placeholder="Senha" required autocomplete="current-password">
+                            </div>                               
+                    </div>
+                <div class="continue-button">
+                    <button type="submit">Entrar</button>
+                </div>
+                <p class="cadastro-link"><a href="index.html">Não tem conta? Cadastre-se</a></p>
+            </form>      
+        </div>
+    </div>
+    <script src="js/auth.js"></script>
+    <script src="js/login.js"></script>
+</body>
+</html>
